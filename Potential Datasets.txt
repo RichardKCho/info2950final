@@ -1,3 +1,5 @@
+GitHub Repo: https://github.com/RichardKCho/info2950final.git
+
 Potential Datasets for the Final Project
 
 1. NBA Player Data (https://www.kaggle.com/justinas/nba-players-data/data)
