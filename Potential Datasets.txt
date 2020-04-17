@@ -1,0 +1,19 @@
+Potential Datasets for the Final Project
+
+1. NBA Player Data (https://www.kaggle.com/justinas/nba-players-data/data)
+- The dataset includes information on all players who have played in the National Basketball Association in the range of 1996 - 2019.
+- The dataset is 2 MB and exists as an Excel (.csv) file -- it is downloadable in the above link from Kaggle.
+- The dataset includes basic information such as player's names, teams, years they played, player's origination, and position. The dataset also includes key metrics such as totaly games played, points per game, rebounds per game, and assists per game.
+    - "player_name, team_abbreviation, age, player_height, player_weight, college, country, draft_year, draft_round, draft_number, gp, pts, 
+    reb, ast, net_rating, oreb_pct, dreb_pct, usg_pct, ts_pct, ast_pct, season"
+- The dataset seems to have all information available for analysis -- potential exploration topics include a single player's points across their career, most points scored by a given position, or the best team based on average statistics of the players.
+    
+2. Pokemon Stat Data (https://github.com/shahinrostami/pokemon_dataset)
+- The dataset includes stats for all Pokemon from Generation 1 - 8.
+- The dataset is 57.5 KB and exists as a .csv file on Github -- it is downloadable in the above link from Github.
+- The dataset includes basic information on the name of the Pokemon, Pokemon typing (Type 1 and Type 2) and the Generation it originates from. The dataset then includes stats of the Pokemon (HP, Attack, Defense, Sp. Attack, Sp. Defense, Speed), an aggregated sum of all the stats, and an average of the stats.
+- The data includes all the information needed for analysis -- potential exploration topics include best Pokemon based on typing, the expected strength of a Pokemon given their typing, and strongest generation of Pokemon. 
+
+3.
+
+4. 
