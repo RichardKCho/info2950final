@@ -16,6 +16,7 @@ Potential Datasets for the Final Project
 - The dataset includes basic information on the name of the Pokemon, Pokemon typing (Type 1 and Type 2) and the Generation it originates from. The dataset then includes stats of the Pokemon (HP, Attack, Defense, Sp. Attack, Sp. Defense, Speed), an aggregated sum of all the stats, and an average of the stats.
 - The data includes all the information needed for analysis -- potential exploration topics include best Pokemon based on typing, the expected strength of a Pokemon given their typing, and strongest generation of Pokemon. 
 
-3.
-
-4. 
+3. COVID-19 Data (https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+- The dataset includes stats for many large cities and countries around the world, including age, gender, country, location, symptoms, and more.
+- The dataset is 6 MB and can be downloaded from the link above. 
+- Potential exploration topics include concentration of COVID-19 in different areas of the world, symptom differences, and gender and age differences in those affected.
